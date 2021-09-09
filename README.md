@@ -1,4 +1,5 @@
 # WeavyAngularApp
+![Angular and Weavy](https://repository-images.githubusercontent.com/369351831/10220a80-b9ce-11eb-91b5-fcef6a9bc315)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
