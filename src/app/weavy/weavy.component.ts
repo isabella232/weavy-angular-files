@@ -11,9 +11,9 @@ import { WeavyService } from '../weavy.service';
 export class WeavyComponent implements OnInit, AfterViewInit, OnDestroy {
   @Input() spaceKey: string = "angular-global";
   @Input() spaceName: string = "Angular Global Space";
-  @Input() appType: string = "messenger";
-  @Input() appKey: string = "angular-chat";
-  @Input() appName: string = "Angular Chat";
+  @Input() appType: string = "posts";
+  @Input() appKey: string = "angular-feed";
+  @Input() appName: string = "Angular Feed";
 
   @ViewChild('weavyContainer') weavyContainer!: ElementRef;
 

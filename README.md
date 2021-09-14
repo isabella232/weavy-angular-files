@@ -4,7 +4,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
 ## Tutorial
-Learn how we created this Angular chat app in our [turorial at Weavy Docs](https://www.weavy.com/docs/chat/angular/introduction).
+Learn how we created this Angular Activity Feed app in our [turorial at Weavy Docs](https://www.weavy.com/docs/feed/angular/introduction).
 
 ## Development server
 
