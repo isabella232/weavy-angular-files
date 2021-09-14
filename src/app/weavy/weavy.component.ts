@@ -11,9 +11,9 @@ import { WeavyService } from '../weavy.service';
 export class WeavyComponent implements OnInit, AfterViewInit, OnDestroy {
   @Input() spaceKey: string = "angular-global";
   @Input() spaceName: string = "Angular Global Space";
-  @Input() appType: string = "posts";
-  @Input() appKey: string = "angular-feed";
-  @Input() appName: string = "Angular Feed";
+  @Input() appType: string = "files";
+  @Input() appKey: string = "angular-files";
+  @Input() appName: string = "Angular Files";
 
   @ViewChild('weavyContainer') weavyContainer!: ElementRef;
 

@@ -1,10 +1,10 @@
-# WeavyAngularApp
+# Weavy Angular File Sharing App
 ![Angular and Weavy](https://repository-images.githubusercontent.com/369351831/10220a80-b9ce-11eb-91b5-fcef6a9bc315)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
 ## Tutorial
-Learn how we created this Angular Activity Feed app in our [turorial at Weavy Docs](https://www.weavy.com/docs/feed/angular/introduction).
+Learn how we created this Angular File Sharing app in our [turorial at Weavy Docs](https://www.weavy.com/docs/files/angular/introduction).
 
 ## Development server
 
